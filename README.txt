@@ -1,3 +1,7 @@
+i designed this macchanger specifically to work with unix shell .
+
+
+
 # python
 contains python ETH tools 
 
